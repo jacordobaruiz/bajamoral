@@ -1,7 +1,7 @@
 ---
 layout: post
 title "Hola"
-category: 
+category: Prueba
 ---
 Hola, esto es una prueba. Larguese.
 
