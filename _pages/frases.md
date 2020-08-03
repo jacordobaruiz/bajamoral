@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: post
 permalink: /frases/
 title: Frases
 ---
 > Existo como soy, eso es suficiente  
--Walt Whitman
+>-Walt Whitman
 
-> La única manera de lidiar con este mundo sin libertad es volverte tan absolutamente libre que tu mera existencia sea un acto de rebelión.  
--Albert Camus  
+> La única manera de lidiar con este mundo sin libertad es volverte tan absolutamente libre que tu mera existencia sea un acto de rebelión.    
+>-Albert Camus  
 
 > Solo quiero ser uno de ellos. Mírenme. Por favor.  
-> -"Van Gogh: At Eternity's Gate"
+-"Van Gogh: At Eternity's Gate"
