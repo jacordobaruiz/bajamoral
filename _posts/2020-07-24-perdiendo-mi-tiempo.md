@@ -2,8 +2,7 @@
 layout: post
 title: "Perdiendo mi tiempo"
 category: Decepcion
----
-Perdiendo mi tiempo 
+--- 
 Lo más reciente, mi mamá me manda un mensaje por whatsapp, tan largo como lo que se ha hecho 
 esta cuarenta, y me pregunta que si lo que dice es cierto… veo un nombre, de alguien que intenta 
 jugar de intrépido y "desenmascarar" a los políticos sobre los "verdaderos intereses" de la 
