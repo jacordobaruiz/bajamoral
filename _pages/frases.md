@@ -7,4 +7,7 @@ title: Frases
 -Walt Whitman
 
 > La única manera de lidiar con este mundo sin libertad es volverte tan absolutamente libre que tu mera existencia sea un acto de rebelión.  
--Albert Camus
+-Albert Camus  
+
+> Solo quiero ser uno de ellos. Mírenme. Por favor.  
+> -"Van Gogh: At Eternity's Gate"
